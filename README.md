@@ -1,6 +1,7 @@
 Example of output:
 
 [root@stand-dpi-01 ~]# sh script.sh
+
 CentOS Linux release 8.4.2105
 ___________________
 MemTotal:        8037312 kB
